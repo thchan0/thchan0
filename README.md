@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**thchan0/thchan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on assignments and projects
 - 🌱 I’m currently learning spanish
@@ -14,4 +10,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ryan
 - ⚡ Fun fact: I have tried playing more than 10 type of sports!
 - Favourite hobby: Doing sports!
--->
+
