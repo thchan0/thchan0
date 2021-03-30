@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Chan Tsun Hin, Ryan.
 
 
 - 🔭 I’m currently working on assignments and projects
